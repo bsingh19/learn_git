@@ -1,4 +1,4 @@
-# INTO
+# INTRO
 The purpose of this repository is to store frequently used and essential Git commands, tips, and tricks.
 
 # Update Git Ignore
